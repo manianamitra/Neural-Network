@@ -1,0 +1,66 @@
+Data Preprocessed.
+Training data vectorized.
+Test data vectorized.
+Vectors Created.
+Iteration No:0
+Training Done For same number of spam and ham messages
+Ham are being trained.
+Training Done on rest of the data set.
+0.292600896861
+0.301615798923
+Iteration No:1
+Training Done For same number of spam and ham messages
+Ham are being trained.
+Training Done on rest of the data set.
+0.126457399103
+0.140035906643
+Iteration No:2
+Training Done For same number of spam and ham messages
+Ham are being trained.
+Training Done on rest of the data set.
+0.128923766816
+0.153500897666
+Iteration No:3
+Training Done For same number of spam and ham messages
+Ham are being trained.
+Training Done on rest of the data set.
+0.111434977578
+0.150807899461
+Iteration No:4
+Training Done For same number of spam and ham messages
+Ham are being trained.
+Training Done on rest of the data set.
+0.0654708520179
+0.08078994614
+Iteration No:5
+Training Done For same number of spam and ham messages
+Ham are being trained.
+Training Done on rest of the data set.
+0.0515695067265
+0.064631956912
+Iteration No:6
+Training Done For same number of spam and ham messages
+Ham are being trained.
+Training Done on rest of the data set.
+0.0307174887892
+0.0475763016158
+Iteration No:7
+Training Done For same number of spam and ham messages
+Ham are being trained.
+Training Done on rest of the data set.
+0.0432735426009
+0.056552962298
+Iteration No:8
+Training Done For same number of spam and ham messages
+Ham are being trained.
+Training Done on rest of the data set.
+0.0522421524664
+0.0592459605027
+Iteration No:9
+Training Done For same number of spam and ham messages
+Ham are being trained.
+Training Done on rest of the data set.
+0.0578475336323
+0.0664272890485
+Traning Completed
+

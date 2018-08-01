@@ -1,0 +1,56 @@
+Data Preprocessed.
+Training data vectorized.
+Test data vectorized.
+Vectors Created.
+Iteration No:0
+Training For SPAM Dataset completed.
+Training For HAM Dataset completed.
+0.134977578475
+0.130161579892
+Iteration No:1
+Training For SPAM Dataset completed.
+Training For HAM Dataset completed.
+0.134977578475
+0.130161579892
+Iteration No:2
+Training For SPAM Dataset completed.
+Training For HAM Dataset completed.
+0.134977578475
+0.130161579892
+Iteration No:3
+Training For SPAM Dataset completed.
+Training For HAM Dataset completed.
+0.131838565022
+0.128366247756
+Iteration No:4
+Training For SPAM Dataset completed.
+Training For HAM Dataset completed.
+0.120852017937
+0.119389587074
+Iteration No:5
+Training For SPAM Dataset completed.
+Training For HAM Dataset completed.
+0.115246636771
+0.116696588869
+Iteration No:6
+Training For SPAM Dataset completed.
+Training For HAM Dataset completed.
+0.106278026906
+0.112208258528
+Iteration No:7
+Training For SPAM Dataset completed.
+Training For HAM Dataset completed.
+0.0869955156951
+0.0942549371634
+Iteration No:8
+Training For SPAM Dataset completed.
+Training For HAM Dataset completed.
+0.0786995515695
+0.0906642728905
+Iteration No:9
+Training For SPAM Dataset completed.
+Training For HAM Dataset completed.
+0.0742152466368
+0.088868940754
+Traning Completed
+
